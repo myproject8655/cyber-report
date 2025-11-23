@@ -1,5 +1,5 @@
 import React from "react";
-import { Shield, AlertTriangle, Zap, Users, CheckCircle, ArrowRight } from "lucide-react";
+import { Shield, AlertTriangle, Zap, Users, CheckCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import Image from "next/image";
