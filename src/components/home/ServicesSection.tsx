@@ -1,5 +1,5 @@
 import React from "react";
-import { ShieldCheck, FileSearch, Briefcase, Globe, Smartphone, Lock } from "lucide-react";
+import { ShieldCheck, FileSearch, Globe, Smartphone } from "lucide-react";
 import ServiceCard from "../common/ServiceCard";
 
 const ServicesSection: React.FC = () => {
