@@ -1,4 +1,4 @@
 export const data = {
   siteName: "Cyber Report",
-  contactPhone: "+918826038323",
+  contactPhone: "+919217163978",
 };
